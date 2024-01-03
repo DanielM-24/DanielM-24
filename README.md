@@ -1,9 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**DanielM-24/DanielM-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I am Daniel
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Compose
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Danola1497@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
